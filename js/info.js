@@ -25,7 +25,7 @@ event.preventDefault();
 // Here we grab the text from the input box
 
 // Here we construct our URL
-var queryURL = "https://api.adzuna.com:443/v1/api/jobs/us/search/1?app_id=0310bdf8&app_key=f3e2162ac6c48176078a6a29ba3b9322&results_per_page=5&what_or=computer-science%2C%20information%2C%20internet-technology&sort_direction=down&sort_by=relevance&salary_min=30000&salary_max=150000&full_time=1"
+var queryURL = "https://api.adzuna.com:443/v1/api/jobs/us/search/1?app_id=0310bdf8&app_key=f3e2162ac6c48176078a6a29ba3b9322&results_per_page=3&what_or=computer-science%2C%20information%2C%20internet-technology&sort_direction=down&sort_by=relevance&salary_min=30000&salary_max=150000&full_time=1"
 // var queryURL = "https://https://api.adzuna.com:443/v1/api/jobs/us/top_companies?j=" + job + "US&location1=&"
 // var queryURL = "https://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
 //whenever the user clicks submit and ajax call is about to begin
