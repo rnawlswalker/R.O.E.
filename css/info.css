@@ -49,8 +49,14 @@ html, body {
     text-transform:uppercase;
     text-decoration: none;
 
-
+.company {
+    color: white;
 }
+    
+.title {
+    color: white;
+} 
+    
 h1{
     text-align: center;
     color: #094c18;;
